@@ -24,7 +24,7 @@
     "winnow": "^1.14.0"
   },
   "devDependencies": {
-    "async": "^2.5.0",
+    "async": "^2.6.1",
     "buble": "^0.19.0",
     "express": "^4.14.0",
     "joi": "^13.1.2",
